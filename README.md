@@ -18,6 +18,7 @@ this data is death records from 90's to 2017
 in this report i've illustrated some of the features to better understand the data:
 1. correlation of main attributes
 2. ratio of murder/suicide based on race, sex, age and education.
+
 Then I've trained a Generalized linear model using H2o and plotted the False Positives and False negatives overally and detailed( based on race and sex ).
 and then some plots are drawn for better understanding the model such as DOC or acc/threshold.
 then i try to tune the depth of model and based on the best depth i tune other parameters.
