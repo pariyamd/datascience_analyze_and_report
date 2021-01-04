@@ -2,7 +2,7 @@
 some data science projects in R, including reports in markdown format, codes, output plots &amp; models.
 ## This repo includes three of my datascience projects:
 
-### A passage on literature
+### A Passage on Literature
 this report includes questions about charles dickens' books & novels.
 1. most used top 20 words in dickens’ books
 2. wordcloud of dickens’ books
@@ -24,7 +24,7 @@ and then some plots are drawn for better understanding the model such as DOC or 
 then i try to tune the depth of model and based on the best depth i tune other parameters.
 this model is later used in a shiny app to help judges better predict wheather a death was caused by a murder or suicide
 
-### mobile devices
+### Mobile Devices
 in this report you can see:
 1. top mobile device manufacturers 
 2. evolution of mobile dimensions in time
@@ -37,3 +37,7 @@ in this report you can see:
 9. Competition of companies and the amount of their production over time
 10. Growth rate and changes of  price, RAM and camera size
 11. Mobile phone area change chart
+
+### Once upon a time in Netflix
+You can also check out this [post](https://rpubs.com/pariya_md/Netflix_Story)
+
